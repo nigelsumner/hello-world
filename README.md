@@ -1,3 +1,3 @@
 # hello-world
 A test repository
-This is the master read me file
+This is a branch of the read me file
